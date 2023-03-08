@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mountains>
+    <MountFuji>
+        <MountainInfo>
+            <OtherName>Fujiyama or Fuji no Yama</OtherName>
+            <MountainType type="Stratovolcano">
+                <Description>Stratovolcanoes, also known as composite cones, are the most picturesque and the most deadly of the volcano types. Their lower slopes are gentle, but they rise steeply near the summit to produce an overall morphology that is concave in an upward direction.</Description>
+            </MountainType>
+            <Height>3,776 m</Height>
+            <Width>40 to 50 km</Width>
+            <Location>
+                    <Continent name="Asia">
+                        <Country name="Japan">
+                            <City>Between Tokyo and Kyoto</City>
+                        </Country>
+                    </Continent>
+            </Location>
+            <Origin>
+                <YearFormed>2.6 million years ago</YearFormed>
+                <Discovery>
+                    <Year>663AD</Year>
+                    <By>En no Gyoja</By>
+                </Discovery>
+            </Origin>
+        </MountainInfo>
+    </MountFuji>
+
+    <MountKilimanjaro>
+        <MountainInfo>
+            <OtherName>Uhuru Peak</OtherName>
+            <MountainType type="Stratovolcano">
+                <Description>Stratovolcanoes, also known as composite cones, are the most picturesque and the most deadly of the volcano types. Their lower slopes are gentle, but they rise steeply near the summit to produce an overall morphology that is concave in an upward direction.</Description>
+            </MountainType>
+            <Height>5,895 m</Height>
+            <Width>40 km</Width>
+            <Location>
+                    <Continent name="Africa">
+                        <Country name="Tanzania">
+                            <City>Moshi</City>
+                        </Country>
+                    </Continent>
+            </Location>
+            <Origin>
+                <YearFormed>3 million years ago</YearFormed>
+                <Discovery>
+                    <Year>1848</Year>
+                    <By>Johannes Rebmann and Johann Ludwig Krapf</By>
+                </Discovery>
+            </Origin>    
+        </MountainInfo>
+    </MountKilimanjaro>
+
+    <MountPinatubo>
+        <MountainInfo>
+            <MountainType type="Stratovolcano">
+                <Description>Stratovolcanoes, also known as composite cones, are the most picturesque and the most deadly of the volcano types. Their lower slopes are gentle, but they rise steeply near the summit to produce an overall morphology that is concave in an upward direction.</Description>
+            </MountainType>
+            <Height>1,486 m</Height>
+            <Width>2.5 km</Width>
+            <Location>
+                    <Continent name="Asia">
+                        <Country name="Philippines">
+                            <City>Zambales</City>
+                        </Country>
+                    </Continent>
+            </Location>
+            <Origin>
+                <YearFormed>1.1 million years ago</YearFormed>
+            </Origin>    
+        </MountainInfo>
+    </MountPinatubo>
+
+    <MountEverest>
+        <MountainInfo>
+            <OtherName>Chomolungma</OtherName>
+            <MountainType type="Fold Mountain">
+                <Description>Fold mountains are created where two or more of Earth’s tectonic plates are pushed together. At these colliding, compressing boundaries, rocks and debris are warped and folded into rocky outcrops, hills, mountains, and entire mountain ranges.</Description>
+            </MountainType>
+            <Height>8,849 m</Height>
+            <Width>2,500 km</Width>
+            <Location>
+                    <Continent name="Asia">
+                        <Country name="China and Nepal">
+                            <City>Khumbu Pasanglhamu Rural Municipality</City>
+                        </Country>
+                    </Continent>
+            </Location>
+            <Origin>
+                <YearFormed>60 million years ago</YearFormed>
+                <Discovery>
+                    <Year>1852</Year>
+                    <By>Radhanath Sikhdar</By>
+                </Discovery>
+            </Origin>    
+        </MountainInfo>
+    </MountEverest>
+
+    <LaSal>
+        <MountainInfo>
+            <MountainType type="Dome Mountain">
+                <Description>Dome mountains are formed when a large amount of melted rock (magma) pushes up through the earth's crust. Dome mountains aren't as tall as folded mountains because the magma beneath them doesn't press forcefully enough. The lava cools over time to form cold, hard rock. The outcome is a mountain with a dome form.</Description>
+            </MountainType>
+            <Height>3,879 m</Height>
+            <Width>32 km</Width>
+            <Location>
+                    <Continent name="North America">
+                        <Country name="United States">
+                            <State>Utah</State>
+                        </Country>
+                    </Continent>
+            </Location>
+            <Origin>
+                <YearFormed>24 million years ago</YearFormed>
+                <Discovery>
+                    <Year>1869</Year>
+                    <By>John Wesley Powell</By>
+                </Discovery>
+            </Origin>    
+        </MountainInfo>
+    </LaSal>
+</mountains>
+
+
+
+
+
