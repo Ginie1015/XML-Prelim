@@ -3,6 +3,11 @@
     <MountFuji>
         <MountainInfo>
             <OtherName>Fujiyama or Fuji no Yama</OtherName>
+            <Status>Active</Status>
+            <LastEruption>
+                <Date>December 16, 1707</Date>
+                <DeathToll>No Casualty</DeathToll>
+            </LastEruption>
             <MountainType type="Stratovolcano">
                 <Description>Stratovolcanoes, also known as composite cones, are the most picturesque and the most deadly of the volcano types. Their lower slopes are gentle, but they rise steeply near the summit to produce an overall morphology that is concave in an upward direction.</Description>
             </MountainType>
@@ -28,6 +33,11 @@
     <MountKilimanjaro>
         <MountainInfo>
             <OtherName>Uhuru Peak</OtherName>
+            <Status>Dormant</Status>
+            <LastEruption>
+                <Date>360,000 years ago</Date>
+                <DeathToll>3 to 10 per year</DeathToll>
+            </LastEruption>
             <MountainType type="Stratovolcano">
                 <Description>Stratovolcanoes, also known as composite cones, are the most picturesque and the most deadly of the volcano types. Their lower slopes are gentle, but they rise steeply near the summit to produce an overall morphology that is concave in an upward direction.</Description>
             </MountainType>
@@ -52,6 +62,11 @@
 
     <MountPinatubo>
         <MountainInfo>
+            <Status>Active</Status>
+            <LastEruption>
+                <Date>June 15, 1991</Date>
+                <DeathToll>722</DeathToll>
+            </LastEruption>
             <MountainType type="Stratovolcano">
                 <Description>Stratovolcanoes, also known as composite cones, are the most picturesque and the most deadly of the volcano types. Their lower slopes are gentle, but they rise steeply near the summit to produce an overall morphology that is concave in an upward direction.</Description>
             </MountainType>
